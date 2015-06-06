@@ -20,6 +20,7 @@ HEAD points to most recent commit
   377  #remember to add message to commit
       git commit -m 'new line'
 
+#Business business business ... Everything is AWESOME!!!
 
   378  git status
   379  git log
